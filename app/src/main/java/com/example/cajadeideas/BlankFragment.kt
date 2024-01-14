@@ -16,4 +16,5 @@ class BlankFragment : Fragment() {
         return inflater.inflate(R.layout.fragment_blank, container, false)
     }
 
+
 }
