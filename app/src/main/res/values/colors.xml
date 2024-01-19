@@ -9,10 +9,10 @@
     <color name="white">#FFFFFFFF</color>
 
     <color name="primary">#ffded5</color>
-    <color name="primary_dark">#ffded5</color>
+    <color name="primary_dark">#F3CDC2</color>
     <color name="secundary">#9f6f68</color>
-    <color name="secundary_dark">#9f6f68</color>
+    <color name="secundary_dark">#E19F6F68</color>
     <color name="acent">#FF0000</color>
 
-
+    #F3CDC2
 </resources>
